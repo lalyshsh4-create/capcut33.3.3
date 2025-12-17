@@ -6,8 +6,8 @@
     "updateUrl": "https://t.me/fotball_kora",
     "title": "تحديث جديد v33.4.3!",
     "description": "تم اصلاح المشاكل!.\n1.تعمل جميع المميزات بدون مشاكل \n2. بدون تسجيل دخول\n4.https://t.me/fotball_kora",
-    "isForce": false,
-    "isExpired": false,
+    "isForce": true,
+    "isExpired": true,
     "expiryDate": "2021-09-01",
     "closeButtonText": "Exit",
     "updateButtonText": "Update Now!"
